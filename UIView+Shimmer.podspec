@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "UIView+Shimmer"
   s.version      = "1.0.0"
-  s.summary      = "UIView+Shimmer is a super-lightweight category that adds a shimmering effect to any UIView, without the need for wrappers, nor layout and touch-handling voodoo."
+  s.summary      = "UIView+Shimmer is a super-lightweight category that adds a shimmering effect to any UIView."
 
   s.description  = <<-DESC
                    UIView+Shimmer is a super-lightweight category that adds a shimmering effect to any UIView, without the need for wrappers, nor layout and touch-handling voodoo.
