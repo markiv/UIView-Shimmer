@@ -5,7 +5,7 @@ UIView+Shimmer is a super-lightweight category that adds a shimmering effect to 
 
 ![](demo.gif)
 
-To make any `UILabel` shimmer:
+For example, to make any `UILabel` instance shimmer:
 
 ```objc
 [label startShimmering];
